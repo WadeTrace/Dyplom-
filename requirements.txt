@@ -1,0 +1,14 @@
+Django==2.2.16
+pytz==2018.5
+psycopg2-binary
+python-dotenv
+djangorestframework
+PyYaml
+django-rest-passwordreset
+celery
+docker-compose
+docker
+pytest-django
+model_bakery
+pytest-cov
+drf-spectacular
